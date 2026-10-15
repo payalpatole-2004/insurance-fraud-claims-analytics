@@ -31,12 +31,12 @@ High-level KPIs: **Total Claims**, **Total Claim Amount**, **Average Claim Amoun
 ### 2. Fraud & Claims
 Deep dive into where fraud happens: fraud by **auto make**, **policy state**, **incident type**, and **incident severity**.
 
-![Fraud & Claims](screenshots/Fraud & Claims.png)
+![Fraud & Claims](screenshots/Fraud_Claims.png)
 
 ### 3. Business Insights
 Trends and segments: **monthly claim trends**, **age group** analysis, and customer segments (gender, policy limits).
 
-![Business Insights](screenshots/Business Insights.png)
+![Business Insights](screenshots/Business_Insights.png)
 
 ---
 
